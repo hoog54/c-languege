@@ -10,5 +10,5 @@ int main() {
 	    printf("조건이 참일을 때, 실행 \n");
 	}else {
 		printf("%d\n", a);
-	    printf("조건이 거짓을을 때, 실행 \n");
+	    printf("조건이 거짓말을 때, 실행 \n");
 }	
